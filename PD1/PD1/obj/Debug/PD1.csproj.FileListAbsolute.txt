@@ -1,0 +1,8 @@
+C:\Users\dell\Documents\OOP\Week1\PD1\PD1\bin\Debug\PD1.exe.config
+C:\Users\dell\Documents\OOP\Week1\PD1\PD1\bin\Debug\PD1.exe
+C:\Users\dell\Documents\OOP\Week1\PD1\PD1\bin\Debug\PD1.pdb
+C:\Users\dell\Documents\OOP\Week1\PD1\PD1\obj\Debug\PD1.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP\Week1\PD1\PD1\obj\Debug\PD1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Documents\OOP\Week1\PD1\PD1\obj\Debug\PD1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP\Week1\PD1\PD1\obj\Debug\PD1.exe
+C:\Users\dell\Documents\OOP\Week1\PD1\PD1\obj\Debug\PD1.pdb

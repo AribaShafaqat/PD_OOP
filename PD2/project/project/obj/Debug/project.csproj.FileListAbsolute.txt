@@ -1,0 +1,16 @@
+C:\Users\dell\Documents\OOP\Week1\.vs\project\project\bin\Debug\project.exe.config
+C:\Users\dell\Documents\OOP\Week1\.vs\project\project\bin\Debug\project.exe
+C:\Users\dell\Documents\OOP\Week1\.vs\project\project\bin\Debug\project.pdb
+C:\Users\dell\Documents\OOP\Week1\.vs\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP\Week1\.vs\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Documents\OOP\Week1\.vs\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP\Week1\.vs\project\project\obj\Debug\project.exe
+C:\Users\dell\Documents\OOP\Week1\.vs\project\project\obj\Debug\project.pdb
+C:\Users\dell\Documents\OOP\week\Week1\.vs\project\project\bin\Debug\project.exe.config
+C:\Users\dell\Documents\OOP\week\Week1\.vs\project\project\bin\Debug\project.exe
+C:\Users\dell\Documents\OOP\week\Week1\.vs\project\project\bin\Debug\project.pdb
+C:\Users\dell\Documents\OOP\week\Week1\.vs\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\OOP\week\Week1\.vs\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Documents\OOP\week\Week1\.vs\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\OOP\week\Week1\.vs\project\project\obj\Debug\project.exe
+C:\Users\dell\Documents\OOP\week\Week1\.vs\project\project\obj\Debug\project.pdb
